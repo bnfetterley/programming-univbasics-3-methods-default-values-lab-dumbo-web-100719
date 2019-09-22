@@ -7,4 +7,4 @@ end
 veg1 = broccoli
 veg2 = spinach
 
-meal_choice(broccoli, spinach)
+meal_choice("broccoli", "spinach")
